@@ -1,0 +1,239 @@
+sudo apt install budgie-desktop
+sudo reboot
+cd /martin
+cd /martin#
+cd /martin
+cd martin
+cd hola
+cd Documentos
+mkdir prueba
+cd prueba
+cd
+cd /home
+cd/debian
+cd/documentos
+cd/Documentos
+su
+sudo apt install budgie-desktop
+sudo su
+cp boot.log /home/martin/Documentos
+cd
+cd /home/martin/Documentos
+pd
+pwd
+ls
+cd Documentos
+ls
+ls -l
+man rm
+cat boot.log
+grep --help
+grep 'cups' boot.log
+grep 'c..s' boot.log
+grep 'cups' boot.log
+ping google.com
+ls -l
+cd Documentos
+pwd
+ls
+ls -l
+chmod
+chmod --help
+chmod u +x boot.log
+chmod u+x boot.log
+ls -l
+chmod a+rwx boot.log
+ls -l
+chmod --help
+man chmod
+ls -l
+chmod 666 boot.log
+ls -l
+chmod 777 boot.log
+ls -l
+chmod 4 boot.log
+ls -l
+chmod 6 boot.log
+ls -l
+chmod777 boot.log
+chmod 777 boot.log
+ls -l
+clear
+ls -l /boot/vmlinuz*
+cd
+ssh-keygen
+cd /home
+cd
+ls
+pwd
+cd home
+cd /home
+cat $HOME/.ssh/*.pub
+cat $HOME/.ssh/*.pub > texto.txt
+cat texto.txt
+gedit texto.txt
+nado texto.txt
+nano texto.txt
+ls
+cat texto.txt
+cd
+cd /home
+ls
+cat texto.txt
+cd /martin/Documentos
+cd /martin
+ls
+cd martin
+cd Documentos
+cat $HOME/.ssh/*.pub > texto.txt
+ls
+clear
+chmod 777 texto.txt
+ls
+ls -l
+clear
+cd
+cd /home
+mkdir repogit
+cd repogit
+git clone <git@github.com:martnmontao/TP
+git clone <git@github.com:martnmontao/TP_AySO.git
+git clone git@github.com:martnmontao/TP_AySO.git
+git clone <git@github.com:martnmontao/TP_AySO.git>
+gitclone <git@github.com:martnmontao/TP_AySO.git>
+git clone git@github.com:martnmontao/TP_AySO.git
+gitclone git@github.com:martnmontao/TP_AySO.git
+clear
+sudo apt update
+sudo apt install git
+git clone git@github.com:martnmontao/TP_AySO.git
+clear
+ssh -T git@github.com
+cp $HOME/.ssh/*.pub
+cd
+cd /home
+ls
+cat texto.txt
+ssh -T git@github.com
+ssh -T git@github.com > textona.txt
+ls
+cd
+/home
+cd /home
+ls
+git clone git@github.com:martnmontao/TP_AySO.git
+git clone git@github.com:martnmontao/TP_AySO.git
+cd repogit
+clear
+ls -l
+git clone git@github.com:martnmontao/TP_AySO.git
+ls -l
+cd TP_AySO
+pwd
+ls -l
+clear
+cd
+cd /home/repogit
+ls
+ls -l
+cd TP_AySO
+ls -l
+clear
+cat /etc/os-release
+clear
+man grep
+grep HOME_URL/etc/os-release
+cat HOME_URL/etc/os-release
+grep 's' HOME_URL/etc/os-release
+cat HOME_URL
+CLEAR
+clear
+grep home_url /etc/os-release
+grep 'HOME_URL' /etc/os-release
+grep 'home_url' /etc/os-release
+grep -i 'home_url' /etc/os-release
+whoami 
+echo "Usuario=$(whoami)"> datos_usuario.txt
+ls
+git add .
+git config --global user.email "martinmontano455@gmail.com"
+git config --global user.name "martnmontao"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+cat cpuinfo
+cat /cpuinfo
+cat /proc
+cd proc
+cat /proc/cpuinfo
+clear
+cat /proc/cpuinfo
+grep "model name" 
+grep "model name" /proc/cpuinfo
+grep "model name" /proc/cpuinfo >> TP_AySO
+ls
+cd TP_AySO
+ls -l
+git commit -m "feat: añadiendo informacion del cpu"
+git add .
+git add TP_AySO
+git commit -m "feat: añadiendo informacion del cpu"
+git status
+ssh -T git@github.com
+clear
+man grep
+ls
+touch lista_ordenada
+ls
+ls -l
+cd
+cd /home/repogit
+ls -l
+cd TP_AySO
+ls -l
+clear
+cat etc/passwd
+cat /etc/passwd
+clear
+clear
+cat /etc/passwd
+clear
+man sort
+cat /etc/passwd | head
+cat /etc/passwd | head | sort -k7
+cat /etc/passwd | head | sort -k6
+grep /etc/passwd | head | sort -k6
+grep -v "nologin"  /etc/passwd | head | sort -k6
+grep -v "nologin"  /etc/passwd | head | sort -k7
+clear
+grep -v "nologin"  /etc/passwd | head | sort -k7
+grep -v "nologin"  /etc/passwd | head | sort -k7 >> lista_ordenada
+ls
+chmud lista_ordenada 666
+chmod 777 lista_ordenada
+clear
+echo lista_ordenada
+cat lista_ordenada
+clear
+git add .
+git commit -m "ADD:Listado de usuarios ordenada"
+ls
+echo "tcpdump" > comando_dump_net
+ls
+cat comando_dump_net
+git add .
+git commit -m "ADD: Comando para capturar y analizar el trafico de red"
+ls
+clear
+cat << EOF >> README.md 
+Alumno: Martin Montaño
+Division: 212
+Turno: Tarde
+EOF
+
+ls
+cat README.md
+git add .
+clear
+git commit -m "docs: informacion de alumno"
+clear
+history -a
